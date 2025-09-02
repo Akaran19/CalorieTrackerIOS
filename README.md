@@ -1,3 +1,5 @@
+# STILL WORK IN PROGRESS
+
 # CalorieCam
 
 A comprehensive iOS app for photo-based calorie tracking and nutrition management.
